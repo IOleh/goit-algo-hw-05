@@ -1,1 +1,1 @@
-# goit-algo-hw-05
+[Conclusions.md](Conclusions.md)
